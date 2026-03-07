@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dar (she/her), a student of statistics at the University of New Mexico. I code for fun and to develop my skills. Other than coding, I like to hike along the Sandia mountains and paint landscapes in my free time. If you want to reach me, my e-mail is darpoling248@outlook.com. Tell me Ember sent you. 
+I'm Dar (she/her), a student of statistics at the University of New Mexico. I code for fun and to develop my skills. Other than coding, I like to hike along the Sandia mountains and paint landscapes in my free time. If you want to reach me, my e-mail is darpoling248@outlook.com. 
 
 <!--
 **ElectricDawg/electricdawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
