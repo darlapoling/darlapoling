@@ -1,14 +1,19 @@
 ## Introducing Darla:
 
-I'm Dar (she/her), a student of statistics at the University of New Mexico. I code for fun and to develop my statistical and programming skills. 
-Professionally, I'm interested in working with large datasets to solve problems and answer questions about the real world. A lot of my projects on here are for my classes, which include design and analysis of experiments, chaos theory, and biostatistics. 
+I'm Dar (she/her), and I've recently graduated with a Bachelor's of science in statistics with a minor in mathematics from the University of New Mexico. 
+
+I code for fun and to develop my statistical and programming skills. 
+- data visualization using R, Matlab
+- ad-hoc analysis using R, Excel.
+- data modeling using R, Matlab.
+
+Professionally, I'm interested in working with large datasets to solve problems and answer questions. My work experience has focused on the manufacturing industry, which means I'm used to having to solve complex, real-world problems with high stakes. 
 
 Other than coding and math, I like to hike along the Sandia mountains and paint landscapes in my free time. 
 
 ## Contact Information:
 
 E-mail: darpoling248@outlook.com
-        dpoling1@unm.edu
 
 LinkdIn: www.linkedin.com/in/darla-poling-186967298
 
