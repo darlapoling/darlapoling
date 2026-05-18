@@ -1,4 +1,4 @@
-## Hi there 👋
+## Introducing Darla:
 
 I'm Dar (she/her), a student of statistics at the University of New Mexico. I code for fun and to develop my statistical and programming skills. 
 Professionally, I'm interested in working with large datasets to solve problems and answer questions about the real world. A lot of my projects on here are for my classes, which include design and analysis of experiments, chaos theory, and biostatistics. 
