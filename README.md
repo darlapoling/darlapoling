@@ -1,11 +1,13 @@
 ## Introducing Darla:
 
-I'm Dar (she/her), and I've recently graduated with a Bachelor's of science in statistics with a minor in mathematics from the University of New Mexico. 
+Hello, I’m Darla Poling.
+I’m a business analyst at Speridian Technologies with a passion for solving tough business challenges through technology.
 
-I code for fun and to develop my statistical and programming skills. 
-- data visualization using R, Matlab
-- ad-hoc analysis using R, Excel.
-- data modeling using R, Matlab.
+With over four years of experience in statistical problem-solving from my Bachelor's degree in Statistics with a minor in math, plus hands-on experience working night shifts in manufacturing, I know how to collaborate across teams to uncover root causes and design tailored, data-driven solutions.
+
+- Data visualization using R, Matlab
+- Ad-hoc analysis using R, Excel.
+- Data modeling using R, Matlab.
 
 Professionally, I'm interested in working with large datasets to solve problems and answer questions. My work experience has focused on the manufacturing industry, which means I'm used to having to solve complex, real-world problems with high stakes. 
 
