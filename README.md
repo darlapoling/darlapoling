@@ -13,6 +13,9 @@ Professionally, I'm interested in working with large datasets to solve problems 
 
 Other than coding and math, I like to hike along the Sandia mountains and paint landscapes in my free time. 
 
+<img width="1074" height="241" alt="Sandia Mountains Cropped" src="https://github.com/user-attachments/assets/e2912dea-d12e-4c95-b60c-8ac7d12e90a2" />
+
+
 ## Contact Information:
 
 E-mail: darpoling248@outlook.com
