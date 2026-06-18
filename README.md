@@ -1,6 +1,6 @@
 ## Introducing Darla:
 
-![Visitor Count](https : //profile-counter.glitch.me/{darlapoling}/count.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darlapoling)](https://git.io/streak-stats)
 
 Hello, I’m Darla Poling.
 I’m a business analyst at Speridian Technologies with a passion for solving tough business challenges through technology.
