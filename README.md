@@ -1,40 +1,48 @@
-## Introducing Darla:
+# Hi, I'm Darla Poling 👋
+
+🎯 **Business Analyst** @ Speridian Technologies | 📊 Statistics & Data Solutions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darla-poling-186967298)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:darpoling248@outlook.com)
+
+---
+
+## 🚀 About Me
+
+Business Analyst turning complex data into clear, actionable solutions. Backed by a **B.S. in Statistics (Math minor)** and hands-on manufacturing experience, I thrive at the intersection of **data, strategy, and cross-functional collaboration**.
+
+- 🔍 Root cause analysis & data-driven decision making
+- 📈 Large dataset analysis, modeling & visualization
+- 🏭 Domain expertise: Manufacturing & Operations
+- 🤝 Cross-team collaboration & stakeholder engagement
+
+---
+
+## 🛠️ Tech Stack
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Core Skills:** Data Visualization • Statistical Modeling • Ad-Hoc Analysis • Business Intelligence
+
+---
+
+## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darlapoling)](https://git.io/streak-stats)
 
-Hello, I’m Darla Poling.
-I’m a business analyst at Speridian Technologies with a passion for solving tough business challenges through technology.
+---
 
-With over four years of experience in statistical problem-solving from my Bachelor's degree in Statistics with a minor in math, plus hands-on experience working night shifts in manufacturing, I know how to collaborate across teams to uncover root causes and design tailored, data-driven solutions.
+## 🌄 Beyond the Code
 
-- Data visualization using R, Matlab
-- Ad-hoc analysis using R, Excel.
-- Data modeling using R, Matlab.
+Hiking the Sandia Mountains 🥾 | Landscape painting 🎨
 
-Professionally, I'm interested in working with large datasets to solve problems and answer questions. My work experience has focused on the manufacturing industry, which means I'm used to having to solve complex, real-world problems with high stakes. 
+<img width="1074" height="241" alt="Sandia Mountains" src="https://github.com/user-attachments/assets/e2912dea-d12e-4c95-b60c-8ac7d12e90a2" />
 
-Other than coding and math, I like to hike along the Sandia mountains and paint landscapes in my free time. 
+---
 
-<img width="1074" height="241" alt="Sandia Mountains Cropped" src="https://github.com/user-attachments/assets/e2912dea-d12e-4c95-b60c-8ac7d12e90a2" />
+🔎 *Keywords: Business Analyst, Data Analyst, Statistics, R Programming, MATLAB, Data Visualization, Manufacturing Analytics, Albuquerque, New Mexico*
 
-
-## Contact Information:
-
-E-mail: darpoling248@outlook.com
-
-LinkdIn: www.linkedin.com/in/darla-poling-186967298
-
-<!--
-**This** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
