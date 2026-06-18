@@ -1,6 +1,6 @@
 ## Introducing Darla:
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=darlapoling)
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 Hello, I’m Darla Poling.
 I’m a business analyst at Speridian Technologies with a passion for solving tough business challenges through technology.
