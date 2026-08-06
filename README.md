@@ -11,7 +11,6 @@ With over four years of experience in statistical problem-solving from my Bachel
 - Ad-hoc analysis using R, Excel.
 - Data modeling using R, Matlab.
 
-Professionally, I'm interested in working with large datasets to solve problems and answer questions. My work experience has focused on the manufacturing industry, which means I'm used to having to solve complex, real-world problems with high stakes. 
 
 Other than coding and math, I like to hike along the Sandia mountains and paint landscapes in my free time. 
 
