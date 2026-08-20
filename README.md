@@ -1,4 +1,4 @@
-## Introducing Darla:
+# Introducing Darla:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darlapoling)](https://git.io/streak-stats)
 
@@ -29,7 +29,6 @@ E-mail: darpoling248@outlook.com
 
 [LinkdIn](www.linkedin.com/in/darla-poling)
 
-*Resources Used: 
+## Resources Used: 
 [Streak Stats](https://streak-stats.demolab.com/demo/)
-*
-<!--
+
