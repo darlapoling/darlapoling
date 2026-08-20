@@ -7,10 +7,16 @@ I’m a business analyst at Speridian Technologies with a passion for solving to
 
 With over four years of experience in statistical problem-solving from my Bachelor's degree in Statistics with a minor in math, plus hands-on experience working night shifts in manufacturing, I know how to collaborate across teams to uncover root causes and design tailored, data-driven solutions.
 
-- Data visualization using R, Matlab
-- Ad-hoc analysis using R, Excel.
-- Data modeling using R, Matlab.
+- Data visualization 
+- Ad-hoc analysis 
+- Data modeling
 
+Using tools including:
+- R and RStudio
+- Python and VSCode
+- Matlab
+- Excel
+- Google Analytics
 
 Other than coding and math, I like to hike along the Sandia mountains and paint landscapes in my free time. 
 
