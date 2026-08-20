@@ -27,8 +27,9 @@ Other than coding and math, I like to hike along the Sandia mountains and paint 
 
 E-mail: darpoling248@outlook.com
 
-LinkdIn: www.linkedin.com/in/darla-poling-186967298
+[LinkdIn](www.linkedin.com/in/darla-poling)
 
-
-*Resources Used: https://streak-stats.demolab.com/demo/*
+*Resources Used: 
+[Streak Stats](https://streak-stats.demolab.com/demo/)
+*
 <!--
