@@ -12,6 +12,7 @@ With over four years of experience in statistical problem-solving from my Bachel
 - Data modeling
 
 Using tools including:
+- Python
 - R and RStudio
 - Python and VSCode
 - Matlab
