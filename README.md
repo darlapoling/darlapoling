@@ -5,14 +5,13 @@
 Hello, I’m Darla Poling. she/her pronouns. 
 I’m a business analyst at Speridian Technologies with a passion for solving tough business challenges through technology.
 
-With over four years of experience in statistical problem-solving from my Bachelor's degree in Statistics with a minor in math, plus hands-on experience working night shifts in manufacturing, I know how to collaborate across teams to uncover root causes and design tailored, data-driven solutions.
+With over four years of experience in statistical problem-solving from my Bachelor's degree in Statistics with a minor in math, plus hands-on experience working night shifts in manufacturing, I know how to collaborate across teams to uncover root causes and design tailored, data-driven solutions. I'm continuously learning and practicing my skills:
 
 - Data visualization 
 - Ad-hoc analysis 
 - Data modeling
 
 Using tools including:
-- Python
 - R and RStudio
 - Python and VSCode
 - Matlab
