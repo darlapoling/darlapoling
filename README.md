@@ -1,7 +1,7 @@
 # Introducing Darla
 [![GitHub Streak](https://streak-stats.demolab.com?user=darlapoling)](https://git.io/streak-stats)
 
-Hi, I'm Darla Poling (she/her) — a data analyst who turns messy datasets into clear, actionable insight.
+Hi, I'm Darla Poling (she/her), a data analyst who turns complex datasets into clear insights.
 
 **Background:**
 - B.S. in Statistics, Minor in Mathematics
