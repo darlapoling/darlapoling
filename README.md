@@ -2,10 +2,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darlapoling)](https://git.io/streak-stats)
 
-Hello, I’m Darla Poling. she/her pronouns. 
-I’m a business analyst at Speridian Technologies with a passion for solving tough business challenges through technology.
+Hello, I’m Darla Poling. she/her pronouns. My accolades include:
+- Bachelor's degree in Statistics
+  - Minor in math
+- 3 associates degrees earned concurrently with my high school diploma
+  - Including one in Computer Science.
+- Hands-on experience in production data, healthcare data, and experimental design
 
-With over four years of experience in statistical problem-solving from my Bachelor's degree in Statistics with a minor in math, plus hands-on experience working night shifts in manufacturing, I know how to collaborate across teams to uncover root causes and design tailored, data-driven solutions. I'm continuously learning and practicing my skills:
+I'm continuously learning and practicing my skills:
 
 - Data visualization 
 - Ad-hoc analysis 
