@@ -32,3 +32,4 @@ When I'm not deep in code or math, I'm hiking the Sandia Mountains or painting l
 
 ## Resources Used
 [Streak Stats](https://streak-stats.demolab.com/demo/)
+[Skill Icons](https://skillicons.dev)
