@@ -1,4 +1,5 @@
 # Introducing Darla
+[![My Skills](https://skillicons.dev/icons?i=r,py,matlab,java,latex,azure,git,github)](https://skillicons.dev)
 [![GitHub Streak](https://streak-stats.demolab.com?user=darlapoling)](https://git.io/streak-stats)
 
 Hi, I'm Darla Poling (she/her), a data analyst who turns complex datasets into clear insights.
