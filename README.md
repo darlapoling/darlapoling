@@ -3,8 +3,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=darlapoling)](https://git.io/streak-stats)
 
-Hi, I'm Darla Poling (she/her), a data analyst who turns complex datasets into clear insights.
-
 **Background:**
 - B.S. in Statistics, Minor in Mathematics
 - 3 Associate's degrees (including Computer Science) completed alongside my high school diploma
