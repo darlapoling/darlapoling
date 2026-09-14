@@ -21,12 +21,8 @@
 - Excel
 - Google Analytics
 
-When I'm not deep in code or math, I'm hiking the Sandia Mountains or painting landscapes.
-
-<img width="1074" height="241" alt="Sandia Mountains Cropped" src="https://github.com/user-attachments/assets/e2912dea-d12e-4c95-b60c-8ac7d12e90a2" />
 
 ## Contact
-- Email: darpoling248@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/darla-poling)
 
 ## Resources Used
