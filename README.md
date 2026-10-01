@@ -5,7 +5,7 @@
 
 **Background:**
 - B.S. in Statistics, Minor in Mathematics
-- 3 Associate's degrees (including Computer Science) completed alongside my high school diploma
+- 3 Associate's degrees (including Computer Science) completed alongside my high school graduation
 - Hands-on experience with production data, healthcare data, and experimental design
 - 5+ years of community involvement, including operational and treasury roles
 
