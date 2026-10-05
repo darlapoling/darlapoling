@@ -18,7 +18,7 @@
 - R / RStudio
 - Python / VS Code
 - MATLAB
-- Excel
+- Microsoft Excel
 - Google Analytics
 
 
